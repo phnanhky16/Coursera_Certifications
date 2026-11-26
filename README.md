@@ -52,3 +52,18 @@ A collection of professional certifications I've completed on Coursera to streng
 [🔗 View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/84A0T2IOFSHE)
 
 ---
+### 📊 Project Management Principles and Practices Specialization
+
+**Institution:** University of California, Irvine  
+**Date Completed:** November 11, 2025  
+[🔗 View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/WFI17WZXTU9)
+
+---
+
+### 🎨 User Experience Research and Design Specialization
+
+**Institution:** University of Michigan  
+**Date Completed:** January 23, 2026  
+[🔗 View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/AFYQ9FD44BSA)
+
+---
